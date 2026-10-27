@@ -23,6 +23,7 @@ the repository.
 - `What did commit a1b2c3d change?`
 - `Explain HEAD as a commit briefing.`
 - `$commitsum release-2026-10`
+- Summarize last commit.
 
 ### `diffsum`
 
@@ -43,7 +44,7 @@ the repository.
 ### `commit-logbook`
 
 - `Create a commit logbook for the last three commits.`
-- `Log this journey: a1b2c3d → e4f5g6h → i7j8k9l.`
+- `Logbook this journey: a1b2c3d → e4f5g6h → i7j8k9l.`
 - `Tell this commit history as a ship's log: a1b2c3d, e4f5g6h, i7j8k9l.`
 - `Give me a nautical Markdown logbook for release-2026-09 through release-2026-10.`
 - `$commit-logbook the last five commits`
