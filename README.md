@@ -1,9 +1,8 @@
 # Commit Sums
 
-A small, composable set of read-only Git-history skills for Codex and other
-agents that support the [Agent Skills](https://agentskills.io) convention. They
-turn commits and commit ranges into evidence-based briefings without changing
-the repository.
+A small, composable set of read-only Git-history skills that turn commits 
+and commit ranges into evidence-based briefings. For Codex and other
+agents that support the [Agent Skills](https://agentskills.io) convention.
 
 ## Included skills
 
