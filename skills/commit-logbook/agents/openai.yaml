@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Logbook"
+  short_description: "Turn commit history into a nautical logbook"
+  default_prompt: "Create a nautical Markdown logbook for these commits: <hash-1>, <hash-2>, <hash-3>."

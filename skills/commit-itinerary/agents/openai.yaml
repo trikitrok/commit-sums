@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Itinerary"
+  short_description: "Narrate a list of git commits as a journey"
+  default_prompt: "Create an itinerary for these commits, explaining each transition and the overall direction: <hash-1>, <hash-2>, <hash-3>."

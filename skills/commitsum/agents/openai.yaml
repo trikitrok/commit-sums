@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commitsum"
+  short_description: "Explain a git commit's changes and intent"
+  default_prompt: "Summarize the changes and likely intent of commit <hash>."

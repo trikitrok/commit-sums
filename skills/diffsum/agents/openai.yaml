@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diffsum"
+  short_description: "Explain changes between two git commits"
+  default_prompt: "Summarize the changes, intent, and impact from <base-hash> to <target-hash>."
